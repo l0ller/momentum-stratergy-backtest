@@ -1,5 +1,4 @@
-# Algorithmic Trading Strategy Backtest and Quantitative Analysis - Resume Project
-
+# Algorithmic Trading Strategy Backtest and Quantitative Analysis
 This project serves as a practical demonstration of quantitative finance, algorithmic trading strategy development, rigorous backtesting, and statistical performance evaluation. It involves the end-to-end process of designing, implementing, and validating a data-driven trading strategy, with a strong focus on **money management**, **risk analysis**, and **simulated portfolio management**.
 
 ## Project Description
